@@ -1,5 +1,6 @@
 {
   "name": "nextjs-starter",
+  "author": "Willem Dinkelspiel <willem@dinkelspiel.com> (https://github.com/dinkelspiel)",
   "version": "1.0.0",
   "private": true,
   "scripts": {
